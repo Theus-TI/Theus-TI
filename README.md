@@ -1,6 +1,6 @@
 # Olá! 👋 Sou o Matheus
 
-Sou um Desenvolvedor focado em [Sua Área, ex: DevOps / Cloud / Backend], apaixonado por tecnologia, automação e resolução de problemas complexos.
+Sou um Desenvolvedor focado em  DevOps / Cloud  apaixonado por tecnologia, automação e resolução de problemas complexos.
 
 ## 🚀 Sobre mim
 - 🎓 Estudando Cloud, ex: AWS, Terraform, Docker
