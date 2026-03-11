@@ -25,21 +25,10 @@ Sou um Desenvolvedor focado em  DevOps / Cloud  apaixonado por tecnologia, autom
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes" />
 </p>
 
-## 📊 Minhas Estatísticas do GitHub
-
-<p align="center">
-  <!-- Troque "SEU_USUARIO" pelo seu nome de usuário do GitHub nas duas URLs abaixo -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&locale=pt-br" alt="Estatísticas de Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&locale=pt-br" alt="Linguagens Mais Usadas" />
-</p>
 
 ## 🔗 Meus Links
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/matheushsouza-ti target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
