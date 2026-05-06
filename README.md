@@ -1,4 +1,4 @@
-#   Matheus | Cybersecurity Student & Blue Team Enthusiast
+#    Cybersecurity Student & Blue Team Enthusiast
 
 <div align="center">
   <img src="https://img.shields.io/badge/Role-Cybersecurity_Student-blue?style=for-the-badge&logo=hackthebox" alt="Cybersecurity Student" />
