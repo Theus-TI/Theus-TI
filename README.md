@@ -1,4 +1,4 @@
-# 🛡️ Matheus | Cybersecurity Student & Blue Team Enthusiast
+#   Matheus | Cybersecurity Student & Blue Team Enthusiast
 
 <div align="center">
   <img src="https://img.shields.io/badge/Role-Cybersecurity_Student-blue?style=for-the-badge&logo=hackthebox" alt="Cybersecurity Student" />
@@ -14,11 +14,11 @@ Meu método de estudo é focado na investigação prática (Homelab): procuro en
 
 ---
 
-### ⚔️ Tecnologias e Estudos Práticos (Homelab)
+###   Tecnologias e Estudos Práticos (Homelab)
 
 Ao longo dos meus laboratórios de estudo, adquiri experiência prática na configuração, operação e análise das seguintes tecnologias e conceitos de segurança:
 
-#### 🔍 SIEM, Threat Detection & Hunting
+####   SIEM, Threat Detection & Hunting
 <p>
   <img src="https://img.shields.io/badge/Splunk_SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/YARA_Rules-FF0000?style=for-the-badge&logo=ycombinator&logoColor=white" />
@@ -27,14 +27,14 @@ Ao longo dos meus laboratórios de estudo, adquiri experiência prática na conf
   <img src="https://img.shields.io/badge/Shannon_Entropy-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-#### 🛡️ Network Security & Defesa Perimetral
+####   Network Security & Defesa Perimetral
 <p>
   <img src="https://img.shields.io/badge/Suricata_IDS/IPS-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" />
   <img src="https://img.shields.io/badge/Iptables/Netfilter-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Honeypots-FF8C00?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
 
-#### 🧠 Sistema Operacional & Automação
+####   Sistema Operacional & Automação
 <p>
   <img src="https://img.shields.io/badge/Linux_Internals-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -43,7 +43,7 @@ Ao longo dos meus laboratórios de estudo, adquiri experiência prática na conf
 
 ---
 
-### 🔬 Laboratório de Análise e Investigação (Foco Atual)
+###   Laboratório de Análise e Investigação (Foco Atual)
 
 No meu ambiente de estudos de Blue Team, realizo simulações e análises profundas de comportamento, com foco em:
 
@@ -56,7 +56,7 @@ No meu ambiente de estudos de Blue Team, realizo simulações e análises profun
 
 ---
 
-### 📚 Próximos Passos na Jornada
+###   Próximos Passos na Jornada
 * Aprofundar em Táticas de Evasão de Antivírus e Ofuscação de payload.
 * Memory Forensics: Investigação forense e extração de artefatos (Dumps de Memória).
 * Engenharia Reversa básica aplicada a Malware Analysis.
