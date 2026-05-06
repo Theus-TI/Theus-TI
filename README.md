@@ -8,9 +8,9 @@
 
 <br>
 
-Olá! Sou um pesquisador e estudante de **Cybersegurança (Blue Team)**, apaixonado por Engenharia de Defesa, Threat Intelligence e Arquitetura de Sistemas Operacionais. Meu foco é entender profundamente as táticas de ataque (Red Team) para arquitetar sistemas de defesa implacáveis.
+Olá! Sou um pesquisador e estudante de **Segurança da Informação (Blue Team)**, apaixonado por Engenharia de Defesa, Threat Intelligence e Arquitetura de Sistemas Operacionais. Meu foco é entender profundamente as táticas de ataque (Red Team) para arquitetar sistemas de defesa implacáveis.
 
-Atualmente, estou me especializando em automação de detecção de ameaças e resposta a incidentes (DFIR), construindo ferramentas de nível Enterprise do zero.
+Atualmente, estou me especializando em automação de detecção de ameaças e resposta a incidentes (DFIR).
 
 ---
 
