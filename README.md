@@ -8,9 +8,9 @@
 
 <br>
 
-Olá! Sou um estudante de **Cybersegurança (Blue Team)**, com grande interesse em Threat Intelligence, Análise de Malware e Arquitetura de Sistemas Operacionais. Meu objetivo é dominar o funcionamento interno dos sistemas (Internals) para identificar anomalias, auditar ambientes e investigar incidentes de segurança.
+Olá! Sou um estudante de **Cybersegurança (Blue Team)**, com forte interesse em Threat Intelligence, Análise de Malware, Sistemas SIEM e Arquitetura de Sistemas Operacionais. Meu objetivo é dominar o funcionamento interno dos sistemas (Internals) para identificar anomalias, auditar ambientes e investigar incidentes de segurança.
 
-Meu método de estudo é focado na investigação prática (Homelab): não apenas utilizo as ferramentas, mas procuro entender como elas funcionam por baixo dos panos e como as ameaças tentam burlá-las.
+Meu método de estudo é focado na investigação prática (Homelab): procuro entender detalhadamente como as ameaças tentam burlar as defesas e como extrair inteligência dos logs para detecção rápida.
 
 ---
 
@@ -18,8 +18,9 @@ Meu método de estudo é focado na investigação prática (Homelab): não apena
 
 Ao longo dos meus laboratórios de estudo, adquiri experiência prática na configuração, operação e análise das seguintes tecnologias e conceitos de segurança:
 
-#### 🔍 Threat Detection & Hunting
+#### 🔍 SIEM, Threat Detection & Hunting
 <p>
+  <img src="https://img.shields.io/badge/Splunk_SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/YARA_Rules-FF0000?style=for-the-badge&logo=ycombinator&logoColor=white" />
   <img src="https://img.shields.io/badge/VirusTotal_API-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
   <img src="https://img.shields.io/badge/File_Integrity_Monitoring-8A2BE2?style=for-the-badge&logo=mathworks&logoColor=white" />
@@ -46,18 +47,19 @@ Ao longo dos meus laboratórios de estudo, adquiri experiência prática na conf
 
 No meu ambiente de estudos de Blue Team, realizo simulações e análises profundas de comportamento, com foco em:
 
-- **Estudo de Motores de Detecção:** Análise de como sistemas EDR e HIDS interceptam anomalias a nível de sistema operacional (Fileless Malware e manipulação de memória RAM).
+- **Operações de SIEM e Correlação de Logs:** Prática na análise e correlação de eventos através do **Splunk** para identificar padrões anômalos e investigar incidentes.
+- **Análise de Motores de Detecção:** Investigação de como sistemas EDR e HIDS interceptam anomalias a nível de sistema operacional (Fileless Malware e manipulação de memória RAM).
 - **Inspeção e Tráfego de Rede:** Configuração e leitura de alertas de Intrusão (IDS) via **Suricata** e entendimento do roteamento/drop de pacotes via NetfilterQueue (Iptables).
-- **Auditoria de Sistemas Linux:** Investigação do Filesystem `/proc`, permissões inseguras (SUID/SGID) e rastreamento de inodes para identificar processos ocultos (ex: Reverse Shells).
+- **Auditoria de Sistemas Linux:** Exploração do Filesystem `/proc`, permissões inseguras (SUID/SGID) e rastreamento de inodes para identificar processos ocultos (ex: Reverse Shells).
 - **Prevenção Heurística:** Estudos sobre o cálculo de **Entropia de Shannon** para entender como a criptografia de arquivos funciona em tempo real durante ataques de Ransomware.
-- **Engenharia de Assinaturas:** Análise e aplicação de **YARA Rules** para caçar ameaças e varreduras automatizadas utilizando a API do VirusTotal.
+- **Engenharia de Assinaturas:** Análise e aplicação de **YARA Rules** para caçar ameaças, atrelado a varreduras automatizadas utilizando a API do VirusTotal.
 
 ---
 
 ### 📚 Próximos Passos na Jornada
 * Aprofundar em Táticas de Evasão de Antivírus e Ofuscação de payload.
-* Memory Forensics: Investigação forense e extração de artefatos.
-* Análise de logs em sistemas SIEM (Splunk/ELK).
+* Memory Forensics: Investigação forense e extração de artefatos (Dumps de Memória).
+* Engenharia Reversa básica aplicada a Malware Analysis.
 
 ---
 
